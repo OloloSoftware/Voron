@@ -1,0 +1,6 @@
+c:\users\elz\documents\visual studio 2013\Projects\TypeScriptHTMLApp2\TypeScriptHTMLApp2\bin\TypeScriptHTMLApp2.dll.config
+c:\users\elz\documents\visual studio 2013\Projects\TypeScriptHTMLApp2\TypeScriptHTMLApp2\bin\TypeScriptHTMLApp2.dll
+c:\users\elz\documents\visual studio 2013\Projects\TypeScriptHTMLApp2\TypeScriptHTMLApp2\bin\TypeScriptHTMLApp2.pdb
+c:\users\elz\documents\visual studio 2013\Projects\TypeScriptHTMLApp2\TypeScriptHTMLApp2\obj\Debug\TypeScriptHTMLApp2.csprojResolveAssemblyReference.cache
+c:\users\elz\documents\visual studio 2013\Projects\TypeScriptHTMLApp2\TypeScriptHTMLApp2\obj\Debug\TypeScriptHTMLApp2.dll
+c:\users\elz\documents\visual studio 2013\Projects\TypeScriptHTMLApp2\TypeScriptHTMLApp2\obj\Debug\TypeScriptHTMLApp2.pdb
